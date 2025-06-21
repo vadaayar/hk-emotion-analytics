@@ -1,0 +1,5 @@
+streamlit
+reportlab
+pandas
+matplotlib
+scikit-learn
